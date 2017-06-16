@@ -25,7 +25,7 @@ at anytime.
   * Various fixes for GetStream class used in API command get
   * Download analytics error
   * Fixed flag options in file_delete API command
-  *
+  * Fixed BlobManager causing functional tests to fail, removed its unneeded manage() loop
 
 ### Deprecated
   *
